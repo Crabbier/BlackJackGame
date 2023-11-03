@@ -21,8 +21,7 @@ public class BlackJack {
 		Deck deck = new Deck();
 		// WE CREATE THE DECK USING createDeck method from
 		deck.createDeck();
-		
-//		this is a comment
+// askdfklahdfja;sldkf
 
 /*************************************************************************************
  *				                    WELCOME MESSAGE                                  *
